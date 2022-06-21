@@ -1,5 +1,3 @@
 # JavaScript
 
-- All of this work is not for free use. This work is not used commercially or personally. 
-
-// Contact me for JS Commissions @ distray#0001
+- I just make stuff to put here when I am bored, i'll probably add like 1 a year.
