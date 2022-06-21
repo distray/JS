@@ -1,2 +1,5 @@
-# JS
-A list of my work or just cool things in JS
+# JavaScript
+
+- All of this work is not for free use. This work is not used commercially or personally. 
+
+// Contact me for JS Commissions @ distray#0001
